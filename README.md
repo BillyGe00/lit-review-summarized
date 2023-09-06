@@ -15,6 +15,7 @@
 * (2019) Evaluation of a clinical score for predicting atrial fibrillation in cryptogenic stroke patients with insertable cardiac monitors: results from the CRYSTAL AF study [[paper]](https://pubmed.ncbi.nlm.nih.gov/31007721/)
 * (2019) Development and validation of a score to detect paroxysmal atrial fibrillation after stroke [[paper]](https://pubmed.ncbi.nlm.nih.gov/30530796/)
 * (2019) Late Detection of Atrial Fibrillation after Stroke: Implications for the Secondary Prevention [[paper]](https://pubmed.ncbi.nlm.nih.gov/31618742/)
+* (2018) A Simple Score That Predicts Paroxysmal Atrial Fibrillation on Outpatient Cardiac Monitoring after Embolic Stroke of Unknown Source [[paper]](https://pubmed.ncbi.nlm.nih.gov/29501269/)
 * (2018) Risk Score for Prediction of 10-Year Atrial Fibrillation: A Community-Based Study [[paper]](https://pubmed.ncbi.nlm.nih.gov/30103243/)
 * (2018) Prediction of paroxysmal Atrial Fibrillation: A machine learning based approach using combined feature vector and mixture of expert classification on HRV signal [[paper]](https://pubmed.ncbi.nlm.nih.gov/30337081/)
 * (2017) A Clinical Score for Predicting Atrial Fibrillation in Patients with Cryptogenic Stroke or Transient Ischemic Attack [[paper]](https://pubmed.ncbi.nlm.nih.gov/28654919/)
