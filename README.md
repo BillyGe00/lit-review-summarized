@@ -1,10 +1,10 @@
 # lit-review-summarized
 
-## Clinical Notes Data Extraction
+### Clinical Notes Data Extraction
 
 * (2018) Comparison of MetaMap and cTAKES for entity extraction in clinical notes [[paper]](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-018-0654-2)
 
-## Atrial Fibrillation Scores
+### Atrial Fibrillation Scores
 
 * (2021) Detecting undiagnosed atrial fibrillation in UK primary care: Validation of a machine learning prediction algorithm in a retrospective cohort study [[paper]](https://pubmed.ncbi.nlm.nih.gov/34021576/)
 * (2021) Impact of P-wave indices in prediction of atrial fibrillation-Insight from loop recorder analysis [[paper]](https://pubmed.ncbi.nlm.nih.gov/33963655/)
@@ -24,6 +24,6 @@
 * (2015) HATCH score in the prediction of new-onset atrial fibrillation after catheter ablation of typical atrial flutter [[paper]](https://pubmed.ncbi.nlm.nih.gov/25850017/#:~:text=The%20HATCH%20score%20could%20be,AF%20after%20typical%20AFL%20ablation)
 * (2011) Score for the targeting of atrial fibrillation: a new approach to diagnosing paroxysmal atrial fibrillation [[paper]](https://pubmed.ncbi.nlm.nih.gov/21346349/)
 
-## Others
+### Others
 
 * (2020) How to Avoid Data Leakage When Performing Data Preparation [[article]](https://machinelearningmastery.com/data-preparation-without-data-leakage/)
