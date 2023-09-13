@@ -29,3 +29,4 @@
 ### Others
 
 * (2020) How to Avoid Data Leakage When Performing Data Preparation [[article]](https://machinelearningmastery.com/data-preparation-without-data-leakage/)
+* (2020) Histogram-Based Gradient Boosting Ensembles in Python [[article]](https://machinelearningmastery.com/histogram-based-gradient-boosting-ensembles/)
