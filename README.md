@@ -8,7 +8,7 @@
 
 * (2022) Is machine learning the future for atrial fibrillation screening? [[full paper]](https://www.sciencedirect.com/science/article/pii/S2666693622000299)
 * (2021) Detecting undiagnosed atrial fibrillation in UK primary care: Validation of a machine learning prediction algorithm in a retrospective cohort study [[full paper]](https://academic.oup.com/eurjpc/article/28/6/598/6280828?login=false)
-* (2021) Impact of P-wave indices in prediction of atrial fibrillation-Insight from loop recorder analysis [[full paper]]https://onlinelibrary.wiley.com/doi/10.1111/anec.12854)
+* (2021) Impact of P-wave indices in prediction of atrial fibrillation-Insight from loop recorder analysis [[full paper]](https://onlinelibrary.wiley.com/doi/10.1111/anec.12854)
 * (2021) Biomarkers for Atrial Fibrillation Detection After Stroke: Systematic Review and Meta-analysis [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/34504030/)
 * (2021) Use of the HAVOC Score to Identify Patients at Highest Risk of Developing Atrial Fibrillation [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/34157712/#:~:text=HAVOC%20scores%20were%20calculated%20by,body%20mass%20index%20%3E30)
 * (2020) Epidemiology of Atrial Fibrillation in the 21st Century [[full paper]](https://www.ahajournals.org/doi/full/10.1161/CIRCRESAHA.120.316340)
