@@ -29,7 +29,12 @@
 * (2011) Score for the targeting of atrial fibrillation: a new approach to diagnosing paroxysmal atrial fibrillation [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/21346349/)
 
 ### Social Determinants
+* (2023) The Neighborhood Atlas Area Deprivation Index For Measuring Socioeconomic Status: An Overemphasis On Home Value [[paper abstract]](https://www.healthaffairs.org/doi/10.1377/hlthaff.2022.01406)
+* (2023) Deciphering the Neighborhood Atlas Area Deprivation Index: the consequences of not standardizing [[full paper]](https://academic.oup.com/healthaffairsscholar/article/1/5/qxad063/7342005)
 * (2021) Social determinants of atrial fibrillation [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/34079095/)
+* (2016) Integrating Social Determinants of Health With Treatment and Prevention: A New Tool to Assess Local Area Deprivation [[full paper]](https://www.cdc.gov/pcd/issues/2016/16_0221.htm)
+* (2016) Introduction of an Area Deprivation Index Measuring Patient Socioeconomic Status in an Integrated Health System: Implications for Population Health [[full paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5019337/)
+* Neighborhood Atlas [[website]](https://www.neighborhoodatlas.medicine.wisc.edu/)
 
 ### ARCADIA
 
