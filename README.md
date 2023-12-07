@@ -34,6 +34,7 @@
 * (2021) Social determinants of atrial fibrillation [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/34079095/)
 * (2016) Integrating Social Determinants of Health With Treatment and Prevention: A New Tool to Assess Local Area Deprivation [[full paper]](https://www.cdc.gov/pcd/issues/2016/16_0221.htm)
 * (2016) Introduction of an Area Deprivation Index Measuring Patient Socioeconomic Status in an Integrated Health System: Implications for Population Health [[full paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5019337/)
+* (2003) Area Deprivation and Widening Inequalities in US Mortality, 1969–1998 [[full paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447923/)
 * Neighborhood Atlas [[website]](https://www.neighborhoodatlas.medicine.wisc.edu/)
 
 ### ARCADIA
