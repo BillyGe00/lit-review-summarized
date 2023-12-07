@@ -38,6 +38,8 @@
 * Neighborhood Atlas [[website]](https://www.neighborhoodatlas.medicine.wisc.edu/)
 
 ### ARCADIA
+* (2023) ARCADIA [[website]](https://www.nihstrokenet.org/trials/arcadia/home)
+* ARCADIA: Apixaban No Help for ESUS Patients With Atrial Cardiopathy [[article]](https://www.tctmd.com/news/arcadia-apixaban-no-help-esus-patients-atrial-cardiopathy)
 
 ### Others
 
