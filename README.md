@@ -42,6 +42,10 @@
 * (2023) ARCADIA: Apixaban No Help for ESUS Patients With Atrial Cardiopathy [[article]](https://www.tctmd.com/news/arcadia-apixaban-no-help-esus-patients-atrial-cardiopathy)
 * ARCADIA [[website]](https://www.nihstrokenet.org/trials/arcadia/home)
 
+### PROMOTE
+* (2023) Cognitive Impairment After Ischemic and Hemorrhagic Stroke: A Scientific Statement From the American Heart Association/American Stroke Association [[full paper]](https://www.ahajournals.org/doi/10.1161/STR.0000000000000430)
+* (2019) The Frequency and Timing of Recurrent Stroke: An analysis of routine health insurance data [[full paper]](https://www.aerzteblatt.de/int/archive/article/210365)
+
 ### Others
 
 * (2020) How to Avoid Data Leakage When Performing Data Preparation [[article]](https://machinelearningmastery.com/data-preparation-without-data-leakage/)
