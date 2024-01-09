@@ -6,6 +6,7 @@
 
 ### Atrial Fibrillation
 
+* (2024) Performance of Different Risk Scores for the Detection of Atrial Fibrillation Among Patients With Cryptogenic Stroke [[abstract]](https://www.ahajournals.org/doi/10.1161/STROKEAHA.123.044961)
 * (2022) Is machine learning the future for atrial fibrillation screening? [[full paper]](https://www.sciencedirect.com/science/article/pii/S2666693622000299)
 * (2021) Predictors of Atrial Fibrillation Development in Patients With Embolic Stroke of Undetermined Source: An Analysis of the RE-SPECT ESUS Trial [[full paper]](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.121.055176)
 * (2021) Detecting undiagnosed atrial fibrillation in UK primary care: Validation of a machine learning prediction algorithm in a retrospective cohort study [[full paper]](https://academic.oup.com/eurjpc/article/28/6/598/6280828?login=false)
