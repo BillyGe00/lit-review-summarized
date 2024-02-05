@@ -45,7 +45,7 @@
 
 ### PROMOTE
 * (2023) Cognitive Impairment After Ischemic and Hemorrhagic Stroke: A Scientific Statement From the American Heart Association/American Stroke Association [[full paper]](https://www.ahajournals.org/doi/10.1161/STR.0000000000000430)
-* (2019) The Frequency and Timing of Recurrent Stroke: An analysis of routine health insurance data [[full paper]](https://www.aerzteblatt.de/int/archive/article/210365)
+* (2019) The Frequency and Timing of Recurrent Stroke: An analysis of routine health insurance data [[full paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6891883/)
 
 ### Others
 
