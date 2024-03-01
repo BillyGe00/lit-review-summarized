@@ -41,6 +41,7 @@
 
 ### Recurrent Stroke
 * (2023) Non-modifiable and modifiable factors contributing to recurrent stroke: A systematic review and meta-analysis [[full paper]](https://www.sciencedirect.com/science/article/pii/S2213398423000271)
+* (2003) Cause of Stroke Recurrence Is Multifactorial: Patterns, Risk Factors, and Outcomes of Stroke Recurrence in the South London Stroke Register [[full paper]](https://www.ahajournals.org/doi/full/10.1161/01.STR.0000072985.24967.7F)
 
 ### ARCADIA
 * (2023) ARCADIA: Apixaban No Help for ESUS Patients With Atrial Cardiopathy [[article]](https://www.tctmd.com/news/arcadia-apixaban-no-help-esus-patients-atrial-cardiopathy)
