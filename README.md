@@ -39,6 +39,9 @@
 * (2003) Area Deprivation and Widening Inequalities in US Mortality, 1969–1998 [[full paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447923/)
 * Neighborhood Atlas [[website]](https://www.neighborhoodatlas.medicine.wisc.edu/)
 
+### Recurrent Stroke
+* (2023) Non-modifiable and modifiable factors contributing to recurrent stroke: A systematic review and meta-analysis [[full paper]](https://www.sciencedirect.com/science/article/pii/S2213398423000271)
+
 ### ARCADIA
 * (2023) ARCADIA: Apixaban No Help for ESUS Patients With Atrial Cardiopathy [[article]](https://www.tctmd.com/news/arcadia-apixaban-no-help-esus-patients-atrial-cardiopathy)
 * ARCADIA [[website]](https://www.nihstrokenet.org/trials/arcadia/home)
