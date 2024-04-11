@@ -29,6 +29,7 @@
 * (2015) A Score for Predicting Paroxysmal Atrial Fibrillation in Acute Stroke Patients: iPAB Score [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/26190307/)
 * (2015) Recommendations for Cardiac Chamber Quantification by Echocardiography in Adults: An Update from the American Society of Echocardiography and the European Association of Cardiovascular Imaging [[full paper]](https://academic.oup.com/ehjcimaging/article/16/3/233/2400086#83129547) (**LAVI and LAE**)
 * (2015) HATCH score in the prediction of new-onset atrial fibrillation after catheter ablation of typical atrial flutter [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/25850017/#:~:text=The%20HATCH%20score%20could%20be,AF%20after%20typical%20AFL%20ablation)
+* (2012) Use of the CHA2DS2-VASc and HAS-BLED Scores to Aid Decision Making for Thromboprophylaxis in Nonvalvular Atrial Fibrillation [[full paper]](https://www.ahajournals.org/doi/10.1161/circulationaha.111.060061#T2) (**CHA2DS2-VASc**)
 * (2011) Score for the targeting of atrial fibrillation: a new approach to diagnosing paroxysmal atrial fibrillation [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/21346349/)
 * (2008) Using traditional measurements of the left atrial diameter to predict the left atrial volume index [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/18186778/) (**LAD and LAE**)
 
