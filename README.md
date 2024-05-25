@@ -44,6 +44,7 @@
 
 ### Recurrent Stroke
 * (2023) Non-modifiable and modifiable factors contributing to recurrent stroke: A systematic review and meta-analysis [[full paper]](https://www.sciencedirect.com/science/article/pii/S2213398423000271)
+* (2019) The Frequency and Timing of Recurrent Stroke: An analysis of routine health insurance data [[full paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6891883/)
 * (2003) Cause of Stroke Recurrence Is Multifactorial: Patterns, Risk Factors, and Outcomes of Stroke Recurrence in the South London Stroke Register [[full paper]](https://www.ahajournals.org/doi/full/10.1161/01.STR.0000072985.24967.7F)
 
 ### ARCADIA
@@ -52,7 +53,6 @@
 
 ### PROMOTE
 * (2023) Cognitive Impairment After Ischemic and Hemorrhagic Stroke: A Scientific Statement From the American Heart Association/American Stroke Association [[full paper]](https://www.ahajournals.org/doi/10.1161/STR.0000000000000430)
-* (2019) The Frequency and Timing of Recurrent Stroke: An analysis of routine health insurance data [[full paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6891883/)
 
 ### Others
 
