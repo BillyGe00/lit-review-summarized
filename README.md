@@ -20,6 +20,7 @@
 * (2019) Evaluation of a clinical score for predicting atrial fibrillation in cryptogenic stroke patients with insertable cardiac monitors: results from the CRYSTAL AF study [[full paper]](https://journals.sagepub.com/doi/10.1177/1756286419842698)
 * (2019) Development and validation of a score to detect paroxysmal atrial fibrillation after stroke [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/30530796/)
 * (2019) Late Detection of Atrial Fibrillation after Stroke: Implications for the Secondary Prevention [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/31618742/)
+* (2018) A Simple Clinical Risk Score (C2HEST) for Predicting Incident Atrial Fibrillation in Asian Subjects [[paper abstract]](https://journal.chestnet.org/article/S0012-3692(18)32492-9/abstract) (**C2HEST**)
 * (2018) A Simple Score That Predicts Paroxysmal Atrial Fibrillation on Outpatient Cardiac Monitoring after Embolic Stroke of Unknown Source [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/29501269/) (**Brown ESUS-AF score**)
 * (2018) Risk Score for Prediction of 10-Year Atrial Fibrillation: A Community-Based Study [[full paper]](https://www.thieme-connect.de/products/ejournals/html/10.1055/s-0038-1668522)
 * (2018) Prediction of paroxysmal Atrial Fibrillation: A machine learning based approach using combined feature vector and mixture of expert classification on HRV signal [[full paper]](https://www.sciencedirect.com/science/article/abs/pii/S0169260718304851?via%3Dihub)
@@ -27,11 +28,11 @@
 * (2016) Novel composite score to predict atrial Fibrillation in acute stroke patients: AF predicting score in acute stroke [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/26896619/)
 * (2016) A Simple, Non-Invasive Score to Predict Paroxysmal Atrial Fibrillation [[full paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163621)
 * (2015) A Score for Predicting Paroxysmal Atrial Fibrillation in Acute Stroke Patients: iPAB Score [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/26190307/)
-* (2015) Recommendations for Cardiac Chamber Quantification by Echocardiography in Adults: An Update from the American Society of Echocardiography and the European Association of Cardiovascular Imaging [[full paper]](https://academic.oup.com/ehjcimaging/article/16/3/233/2400086#83129547) (**LAVI and LAE**)
+* (2015) Recommendations for Cardiac Chamber Quantification by Echocardiography in Adults: An Update from the American Society of Echocardiography and the European Association of Cardiovascular Imaging [[full paper]](https://academic.oup.com/ehjcimaging/article/16/3/233/2400086#83129547)
 * (2015) HATCH score in the prediction of new-onset atrial fibrillation after catheter ablation of typical atrial flutter [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/25850017/#:~:text=The%20HATCH%20score%20could%20be,AF%20after%20typical%20AFL%20ablation)
 * (2012) Use of the CHA2DS2-VASc and HAS-BLED Scores to Aid Decision Making for Thromboprophylaxis in Nonvalvular Atrial Fibrillation [[full paper]](https://www.ahajournals.org/doi/10.1161/circulationaha.111.060061#T2) (**CHA2DS2-VASc**)
 * (2011) Score for the targeting of atrial fibrillation: a new approach to diagnosing paroxysmal atrial fibrillation [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/21346349/)
-* (2008) Using traditional measurements of the left atrial diameter to predict the left atrial volume index [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/18186778/) (**LAD and LAE**)
+* (2008) Using traditional measurements of the left atrial diameter to predict the left atrial volume index [[paper abstract]](https://pubmed.ncbi.nlm.nih.gov/18186778/)
 
 ### Social Determinants
 * (2023) The Neighborhood Atlas Area Deprivation Index For Measuring Socioeconomic Status: An Overemphasis On Home Value [[paper abstract]](https://www.healthaffairs.org/doi/10.1377/hlthaff.2022.01406)
@@ -57,4 +58,6 @@
 ### Others
 
 * (2020) How to Avoid Data Leakage When Performing Data Preparation [[article]](https://machinelearningmastery.com/data-preparation-without-data-leakage/)
-* Codify by AAPC (Medical Coding Lookup Resource) [[website]](https://www.aapc.com/codes/)
+* Medical Coding Lookup Resource #1 [[website]](https://www.aapc.com/codes/)
+* Medical Coding Lookup Resource #2 [[website]](https://www.icd10data.com/)
+
